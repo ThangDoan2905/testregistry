@@ -3,6 +3,8 @@ name = "testregistry"
 version = "0.1.0"
 edition = "2021"
 path = "src/lib.rs"
+description = "A Rust crate for doing XYZ"
+license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
